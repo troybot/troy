@@ -8,7 +8,7 @@ ________________________________________________________________________________
 
 install :
 
-```git clone https://github.com/TitanicTEAMTitanic && cd Titanic && chmod +x install.sh && ./install.sh```
+```git clone https://github.com/TitanicTEAM/Titanic && cd Titanic && chmod +x install.sh && ./install.sh```
 
 ______________________________________________________________________________________________________________________
 
