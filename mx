@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+cd Titanic
+screen -S Titanic -X kill
+screen -S Titanic ./MxAu
