@@ -3824,7 +3824,7 @@ local naadam = redis:get('Titanic:'..bot_id..'naadam')
 if text_sudo then
 send(msg.chat_id_, msg.id_, 1, text_sudo, 1, 'md')
 else
-sendContact(msg.chat_id_, msg.id_, 0, 1, nil, (nadam or 9647723177600), (naadam or "Titanic TEAM"), "", bot_id)
+sendContact(msg.chat_id_, msg.id_, 0, 1, nil, (nadam or 9647723949098), (naadam or "Titanic TEAM"), "", bot_id)
 end
 end
 for k,v in pairs(sudo_users) do
@@ -5050,11 +5050,11 @@ local text =  [[
 🔸┇الصقه بالترمنال وانتر انتظر يتنصب
 🔹┇بعده يطـلب مـعلومات بآلترمـنآل 
 🔹┇تدخل مـعلومـآتك مـن توكن وآيـديـك
-🌟┇ومبروك نصبت سورس مــآكـس تيجي جديد
+🌟┇ومبروك نصبت سورس تايتنك تيجي جديد
 
 📡┇<a href="https://telegram.me/TitanicTEAM">قناه السورس</a>
 📁┇<a href="https://telegram.me/TitanicFILE">ملفات السورس</a>
-💬┇<a href="t.me/K_111BOT">بوت تواصل السورس</a> 
+💬┇<a href="t.me/MA_KLbot">بوت تواصل السورس</a> 
 ]]
 send(msg.chat_id_, msg.id_, 1, text, 1, 'html')
 end
