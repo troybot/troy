@@ -1,6 +1,6 @@
 --[[
     M_A_X_X_A_M
-           CH > @TitanicTEAM
+           CH > @TitaniccTEAM
 --]]
 --------------------------------------
 serpent = require('serpent')
