@@ -5496,6 +5496,39 @@ tdcli_function ({ID="GetChats", offset_order_="9223372036854775807", offset_chat
 end
 end
 
+        
+--------------------------------------------------------------------------------------------
+
+if text == ''..(redis:get(KEEPER..'keepernams') or 'كيبر')..' بوسه' or text == ''..(redis:get(KEEPER..'keepernams') or 'كيبر')..' مصه' then
+
+function reep22(extra, result, success)
+
+if tonumber(result.sender_user_id_) == tonumber(KEEPER_SUDO) then
+
+send(msg.chat_id_, msg.id_, 1, 'موووووووووووواح 🌚💋', 1, 'md')
+
+return false  end
+
+if tonumber(result.sender_user_id_) == tonumber(bot_id) then
+
+send(msg.chat_id_, msg.id_, 1, 'جيبلي صورتي حتى ابوسها ☹️😹', 1, 'md')
+
+return false  end
+
+local KEEPER = { "اععع 🤢خده بي حب شباب الوصخ😹😹","موااح 💋 مواااح  حياتي💋😌🍃","💋😞نسخ لصق ع الشفه 👄"}
+
+send(msg.chat_id_, result.id_, 1,''..KEEPER[math.random(#KEEPER)]..'', 1, 'md')
+
+end
+
+if tonumber(msg.reply_to_message_id_) == 0 then
+
+else
+
+getMessage(msg.chat_id_, tonumber(msg.reply_to_message_id_),reep22)
+
+end end
+
 --[[
     M_A_X_X_A_M
            CH > @zamafbi
