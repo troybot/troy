@@ -4845,7 +4845,7 @@ local text =  [[
 ♠️┇ 《 قفل / فتح 》 التكرار
 ♠️┇ 《 قفل / فتح》 الكلايش
 ﹎﹎﹎﹎﹎﹎﹎﹎﹎﹎﹎
-CH:- @TitanicTEAM
+CH:- @zamafbi
 ]]
 send(msg.chat_id_, msg.id_, 1, (h1 or text), 1, 'html')
 end
