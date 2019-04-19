@@ -372,13 +372,13 @@ end
 function formsgg(msgs) 
 local taha = ''  
 if msgs < 100 then 
-taha = 'كلش ضعيف 😫' 
+taha = 'انت ضعيف يا مجنون 😫' 
 elseif msgs < 500 then 
-taha = 'ضعيف 😨' 
+taha = 'ميت  😨' 
 elseif msgs < 1500 then 
-taha = 'غير متفاعل 😒' 
+taha = 'غير متخبل 😒' 
 elseif msgs < 5000 then 
-taha = 'متوسط 😎' 
+taha = 'متوزط 😎' 
 elseif msgs < 10000 then 
 taha = 'متفاعل 😘' 
 elseif msgs < 50000 then 
@@ -386,9 +386,9 @@ taha = 'قمة التفاعل 😍'
 elseif msgs < 90000 then 
 taha = 'ملك التفاعل 😻'  
 elseif msgs < 100000 then 
-taha = 'اسطورة التفاعل 🍃' 
+taha = 'اقوى تفاعل فديتك 🍃' 
 elseif msgs < 1000000 then 
-taha = 'متفاعل نار كلش 🔥' 
+taha = 'انت متفاعل حبي,  🔥' 
 end 
 return taha 
 end
