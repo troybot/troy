@@ -439,6 +439,6 @@ Boss = {
 "^(روليت)$", 
 "^(قائمه الالعاب)$", 
  },
- iBoss = games,
- dBoss = procces,
+ Boss = games,
+ Boss = procces,
  }
