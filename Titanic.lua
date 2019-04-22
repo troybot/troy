@@ -1,6 +1,6 @@
 --[[
-    M_A_X_X_A_M
-           CH > @zamafbi
+    TROY
+           Dev > @Q2O10
 --]]
 --------------------------------------
 serpent = require('serpent')
@@ -372,17 +372,17 @@ end
 function formsgg(msgs) 
 local taha = ''  
 if msgs < 100 then 
-taha = 'انت ضعيف يا مجنون 😫' 
+taha = 'آنت كتير ضعيف حبي  😫' 
 elseif msgs < 500 then 
 taha = 'ميت  😨' 
 elseif msgs < 1500 then 
 taha = 'غير متخبل 😒' 
 elseif msgs < 5000 then 
-taha = 'متوزط 😎' 
+taha = 'واو 😎' 
 elseif msgs < 10000 then 
-taha = 'متفاعل 😘' 
+taha = 'واو ع تفآعل  😘' 
 elseif msgs < 50000 then 
-taha = 'قمة التفاعل 😍' 
+taha = 'متفآعل لدرجة آني بحبڪ 😍' 
 elseif msgs < 90000 then 
 taha = 'ملك التفاعل 😻'  
 elseif msgs < 100000 then 
@@ -4794,7 +4794,7 @@ local text =  [[
 
 ‎👨🏼‍💻 ⌁≻م4اوامر المبرمجين
 ﹎﹎﹎﹎﹎﹎﹎﹎﹎﹎
-📡 ┇Ch ~» @zamafbi
+📡 ┇Ch ~» @T20QT
 ]]
 send(msg.chat_id_, msg.id_, 1, (help or text), 1, 'html')
 end
@@ -4845,7 +4845,7 @@ local text =  [[
 ♠️┇ 《 قفل / فتح 》 التكرار
 ♠️┇ 《 قفل / فتح》 الكلايش
 ﹎﹎﹎﹎﹎﹎﹎﹎﹎﹎﹎
-CH:- @zamafbi
+CH:- @T20QT
 ]]
 send(msg.chat_id_, msg.id_, 1, (h1 or text), 1, 'html')
 end
@@ -4911,7 +4911,7 @@ local text =  [[
 🕳┇ 《 مسح الصوره 》
 🕳┇ 《 مسح الرابط 》
 ﹎﹎﹎﹎﹎﹎﹎﹎﹎﹎
-📡 ┇Ch ~» @zamafbi
+📡 ┇Ch ~» @T20QT
 ]]
 send(msg.chat_id_, msg.id_, 1, (h2 or text), 1, 'html')
 end
@@ -4964,7 +4964,7 @@ local text =  [[
 ♦┇ 《 تفعيل/تعطيل 》الحظر
 ♦┇ 《 تفعيل/تعطيل 》الطرد 
 ﹎﹎﹎﹎﹎﹎﹎﹎
-Ch ~» @zamafbi
+Ch ~» @T20QT
 ]]
 send(msg.chat_id_, msg.id_, 1, (h3 or text), 1, 'html')
 end
@@ -5033,28 +5033,28 @@ local text =  [[
 ◾️┇تغير رابط الانلاين+الرابط
 ◾️┇《تفعيل/تعطيل》الانلاين
 ﹎﹎﹎﹎﹎﹎﹎﹎﹎﹎﹎
-CH:- @zamafbi
+CH:- @T20QT
 
 ]]
 send(msg.chat_id_, msg.id_, 1, (h4 or text), 1, 'html')
 end
 if text:match("^اصدار$") or text:match("^الزعامه$") or text:match("^السورس$") or text:match("^سورس$") then
 local text =  [[
-🗳 ┇ سـورس الزعامه
-`git clone https://github.com/TitanicTEAM/Titanic && cd Titanic && chmod +x install.sh && ./install.sh`
+🗳 ┇ سـورس Troy
+`git clone https://github.com/troybot/troy && cd troy && chmod +x install.sh && ./install.sh`
 
 🔱┇ كـود التـشغـيل
-`./Titanic/mx`
+`./troy/mx`
 
 🔸┇اضغط علكود ليتم النسخ عندك
 🔸┇الصقه بالترمنال وانتر انتظر يتنصب
 🔹┇بعده يطـلب مـعلومات بآلترمـنآل 
 🔹┇تدخل مـعلومـآتك مـن توكن وآيـديـك
-🌟┇ومبروك نصبت سورس تايتنك تيجي جديد
+🌟┇ومبروك نصبت سورس Troy تيجي جديد
 
-📡┇<a href="https://telegram.me/zamafbi">قناه السورس</a>
-📁┇<a href="https://telegram.me/zamaFile">ملفات السورس</a>
-💬┇<a href="t.me/shahablll_bot">بوت تواصل السورس</a> 
+📡┇<a href="https://telegram.me/T20QT">قناه السورس</a>
+📁┇<a href="https://telegram.me/T20QT">ملفات السورس</a>
+💬┇<a href="t.me/TTRSSBOT">بوت تواصل السورس</a> 
 ]]
 send(msg.chat_id_, msg.id_, 1, text, 1, 'html')
 end
@@ -5497,6 +5497,6 @@ end
 end
         
 --[[
-    M_A_X_X_A_M
-           CH > @zamafbi
+    TROY
+           Dev > @Q2O10
 --]]
